@@ -1,0 +1,2 @@
+[81320:0x108008000]       41 ms: Scavenge 2.3 (3.0) -> 1.9 (4.0) MB, 1.4 / 0.0 ms  (average mu = 1.000, current mu = 1.000) allocation failure 
+2
